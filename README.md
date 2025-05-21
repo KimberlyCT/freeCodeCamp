@@ -20,4 +20,7 @@ Teaches use of developer tools - Git - for version control, Linux/unix command l
 <li>Mean-Variance-Standard Deviation Calculator</li>
 <li>Demographic Data Analyzer</li><br>
 
-<p> Note: test & main.py files are copies taken from fCC repositories, as a supplementary guide to fulfilling some requirements  </p>
+<p> 
+ Note: test & main.py files are copies taken from fCC repositories, as a supplementary guide to fulfilling some requirements.
+ I try to keep notebooks & documentations where I plan, construct, and test my code
+</p>
