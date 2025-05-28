@@ -8,8 +8,10 @@ Teaches use of developer tools - Git - for version control, Linux/unix command l
 </p>
 <h5>Course-drills</h5>
 <li>Learn Bash-Scripting by building Five Programs</li>
+<li>Build a Student Database part 1 & 2</li>
 <h5>Projects</h5>
 <li> Celestial Bodies Database</li>
+<li> World Cup Database</li>
 
 <h4>Data Analysis with Python</h4>
 <p>Teaches fundamentals of data analysis with Python;
@@ -19,6 +21,7 @@ Teaches use of developer tools - Git - for version control, Linux/unix command l
 <h5>Projects</h5>
 <li>Mean-Variance-Standard Deviation Calculator</li>
 <li>Demographic Data Analyzer</li><br>
+<li>Medical Data Visualizer</li>
 
 <p> 
  Note: test & main.py files are copies taken from fCC repositories, as a supplementary guide to fulfilling some requirements.
