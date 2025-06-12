@@ -2,8 +2,9 @@
 <h5> Their curriculum contains a mix of course-drills & projects that are thorough and well-structured that helped me how to walk and run (abstractly) </h5>
 <h5> Updating this list as I progress: </h5>
 
-<h4 href=https://www.freecodecamp.org/learn/data-analysis-with-python/>Data Analysis with Python</h4>
-<h6 href=https://www.freecodecamp.org/certification/KmblyT/data-analysis-with-python-v7> (finished with certification)</h6>
+<h4>Data Analysis with Python</h4>
+<a href="https://www.freecodecamp.org/learn/data-analysis-with-python" target="_blank">Visit Curriculum</a><br>
+<a href="https://www.freecodecamp.org/certification/KmblyT/data-analysis-with-python-v7" target="_blank"> Finished with certification</a>
 <p>Teaches fundamentals of data analysis with Python;
   practices include reading data from sources like CSVs and SQL, 
   and how to use libraries like Numpy, Pandas, Matplotlib, and Seaborn to process and visualize data.
