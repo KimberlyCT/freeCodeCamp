@@ -27,6 +27,7 @@ MAIN_MENU() {
   if [[ ! $SERVICE_ID_SELECTED =~ ^[0-9]+$ ]]
   #return to main menu
   then MAIN_MENU "I could not find that service. What would you like today?"
+  return
   fi
   
   #verify service_id
@@ -35,6 +36,7 @@ MAIN_MENU() {
   if [[ -z $SERVICE_NAME ]]
   #return to main menu
   then MAIN_MENU "I could not find that service. What would you like today?"
+  return
   else
     echo -e "\n What's your phone number?"
     read CUSTOMER_PHONE
