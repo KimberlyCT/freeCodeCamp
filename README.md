@@ -25,9 +25,15 @@ Teaches use of developer tools - Git - for version control, Linux/unix command l
 <h5>Course-drills</h5>
 <li>Learn Bash-Scripting by building Five Programs</li>
 <li>Build a Student Database part 1 & 2</li>
+<li>Learn Advanced Bash by Building a Kitty Ipsum Translator</li>
+<li>Learn Bash and SQL by Building a Bike Rental Shop</li>
+<li>Learn Nano by Building a Castle </li>
+<li>Learn Git by Building an SQL Reference Object</li>
+
 <h5>Projects</h5>
 <li> Celestial Bodies Database</li>
 <li> World Cup Database</li>
+<li>Salon Appointment Scheduler</li>
 
 
 <p> 
