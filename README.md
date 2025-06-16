@@ -17,6 +17,11 @@
 <li>Page View Time Series Visualizer</li>
 <li>Sea Level Predictor</li>
 
+<p> 
+ Note: test & main.py files are copies taken from fCC repositories, as a supplementary guide to fulfilling some requirements.
+ I also keep notebooks & documentations where I plan, construct, and test my code.
+</p>
+
 <h4>Relational Database</h4>
 <p>
 Teaches use of developer tools - Git - for version control, Linux/unix command line navigation and scripting in Bash,
@@ -29,6 +34,10 @@ Teaches use of developer tools - Git - for version control, Linux/unix command l
 <li>Learn Bash and SQL by Building a Bike Rental Shop</li>
 <li>Learn Nano by Building a Castle </li>
 <li>Learn Git by Building an SQL Reference Object</li>
+
+<p> 
+ Note: courses are done on gitpod workspaces with fCC coderoad, after I accomplish each course I would get copies of accomplished files.
+</p>
 
 <h5>Projects</h5>
 <li> Celestial Bodies Database</li>
