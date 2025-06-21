@@ -23,6 +23,8 @@
 </p>
 
 <h4>Relational Database</h4>
+<a href="https://www.freecodecamp.org/learn/relational-database/" target="_blank">Visit Curriculum</a><br>
+<a href="https://www.freecodecamp.org/certification/KmblyT/relational-database-v8" target="_blank"> Finished with certification</a>
 <p>
 Teaches use of developer tools - Git - for version control, Linux/unix command line navigation and scripting in Bash,
  SQL language with PostgreSQL in gitPod-VM environment with VSCode. 
@@ -43,9 +45,7 @@ Teaches use of developer tools - Git - for version control, Linux/unix command l
 <li> Celestial Bodies Database</li>
 <li> World Cup Database</li>
 <li>Salon Appointment Scheduler</li>
+<li>Periodic Table Database</li>
+<li>Number Guessing Game</li>
 
 
-<p> 
- Note: test & main.py files are copies taken from fCC repositories, as a supplementary guide to fulfilling some requirements.
- I try to keep notebooks & documentations where I plan, construct, and test my code
-</p>
